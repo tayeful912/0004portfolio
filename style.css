@@ -1,0 +1,25 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+
+.half-width{
+
+    width: 50%;
+    padding-left: 2%;
+}
+
+
+
+.half-width img{
+
+    width: 70%;
+}
+
+section{
+
+    display: flex;
+}
